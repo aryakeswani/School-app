@@ -1,0 +1,8 @@
+body{
+    text-align: center;
+}
+.menu_bar{
+    position:sticky;
+    top:0;
+    z-index: 99999;
+}
